@@ -2,9 +2,9 @@
 
 A minimal native Mac client for Paperless-ngx.
 
-- Browse document previews with smooth scrolling and read in a focused view.
-- Search titles and synced OCR text locally for quick results.
+- Browse paperless documents fast and smooth.
+- Quickly search for documents.
 - Find documents in macOS Spotlight and open them directly in Papers.
 - Feel at home with native Mac controls, sharing, and light or dark appearance.
 
-Requires an existing Paperless-ngx server and account. Available for Apple Silicon Macs running macOS 12 or later.
+Requires an existing Paperless-ngx server and account.
