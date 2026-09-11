@@ -4,6 +4,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Papers Updates</title>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Fri, 11 Sep 2026 15:29:41 +0200</pubDate>
+            <link>https://github.com/bandundu/papers-releases</link>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description>&lt;h2&gt;Papers 0.3.1&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pinch to zoom into an open document, up to 4× its fitted size. Zoom out again at fitted size to return to the grid.&lt;/li&gt;
+  &lt;li&gt;Drag documents directly into Mail, Finder, and other apps that accept files, without an attachment picker.&lt;/li&gt;
+  &lt;li&gt;Drag any selected document to copy the entire selection as separate files. A count badge identifies bulk drags, and duplicate filenames are kept distinct.&lt;/li&gt;
+  &lt;li&gt;Improved quick-drag handling, file lifetime, and cancellation. Failed preparation never silently sends only part of a selection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Files that are not cached download while preparing the drag. If you release before they are ready, Papers asks you to drag the selection again.&lt;/p&gt;
+</description>
+            <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.3.1/Papers-0.3.1-arm64.dmg" length="14518312" type="application/octet-stream" sparkle:edSignature="OyZtYto6PVswLiDOEURy1jLWFZss+/ubKBVyyvQk2PAVXSDnxFQvKs+/Bv33WDMCyz3vkKlMJ/087kyur9xiDw=="></enclosure>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Fri, 11 Sep 2026 13:20:37 +0200</pubDate>
             <link>https://github.com/bandundu/papers-releases</link>
@@ -60,6 +79,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: bw3vG7UxyfRbYd8RUsb0GXtYnUjHfwdyeBo+Z6l4rzEtCYALBszpwtDV8akd6vYwVCJIddPpw6nQJwDqdz6DCw==
-length: 5087
+edSignature: hTEDj4tm6zjM9mTl/H+VnTaCtfWzucYrzqVjcG7mHqNch7JwWUrXaiGA+UnkUdlX+r9Kd+IsMoRvQ5eJXXijBQ==
+length: 6721
 -->
