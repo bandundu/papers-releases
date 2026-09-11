@@ -4,6 +4,27 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Papers Updates</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Fri, 11 Sep 2026 17:01:57 +0200</pubDate>
+            <link>https://github.com/bandundu/papers-releases</link>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description>&lt;h2&gt;Papers 0.4.0&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Optional document information below grid thumbnails: titles, localized dates, and independently selectable document type, correspondent, and tag pills. Enable these in Settings → General.&lt;/li&gt;
+  &lt;li&gt;Tag pills match Paperless-ngx colors. Long names truncate and additional tags use a compact +N count. Metadata remains available offline.&lt;/li&gt;
+  &lt;li&gt;Smooth, interruptible animations when showing or hiding document information, with support for macOS Reduce Motion.&lt;/li&gt;
+  &lt;li&gt;Scroll vertically and horizontally with a trackpad after pinching to zoom into a document.&lt;/li&gt;
+  &lt;li&gt;Removed bottom notification and progress overlays. Transfer status and cancellation remain available in Transfers.&lt;/li&gt;
+  &lt;li&gt;Cleaner application menus without unnecessary trailing ellipses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Metadata refreshes on launch, every 10 minutes, and with ⌘R. Empty or unassigned values stay hidden.&lt;/p&gt;
+</description>
+            <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.4.0/Papers-0.4.0-arm64.dmg" length="14583211" type="application/octet-stream" sparkle:edSignature="ZYgasWy5Djnico206i3WAUYkQ7EU9DBKanKXwo3YoqDgwa7QVgJa/y4QXHMhf0RoHwOEhAEcb+O/SIsqaPr+Bg=="></enclosure>
+        </item>
+        <item>
             <title>0.3.1</title>
             <pubDate>Fri, 11 Sep 2026 15:29:41 +0200</pubDate>
             <link>https://github.com/bandundu/papers-releases</link>
@@ -79,6 +100,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: hTEDj4tm6zjM9mTl/H+VnTaCtfWzucYrzqVjcG7mHqNch7JwWUrXaiGA+UnkUdlX+r9Kd+IsMoRvQ5eJXXijBQ==
-length: 6721
+edSignature: JAT+h1zCk5kyUpCDEaxQxEdHhzQWJEuQDKd5uRgKl6jtG9nGX7exLuy41SBynzNEJ6SPu4aPCPZNgyRrujf6Cw==
+length: 8567
 -->
