@@ -8,5 +8,8 @@ A minimal native Mac client for Paperless-ngx.
 - Quickly search for documents.
 - Find documents in macOS Spotlight and open them directly in Papers.
 - Feel at home with native Mac controls, sharing, and light or dark appearance.
+- Get updates in the app, with optional automatic downloads that install when you quit.
 
 Requires an existing Paperless-ngx server and account.
+
+Using 0.1.1 or earlier? [Install 0.2.0 once](https://github.com/bandundu/papers-releases/releases/tag/v0.2.0) to enable future in-app updates.

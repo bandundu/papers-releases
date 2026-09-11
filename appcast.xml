@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Papers Updates</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Fri, 11 Sep 2026 11:01:46 +0200</pubDate>
+            <link>https://github.com/bandundu/papers-releases</link>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description>&lt;h2&gt;Updates, built into Papers&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Check for new versions from the Papers menu or General Settings using native macOS update dialogs.&lt;/li&gt;
+  &lt;li&gt;Choose daily automatic checks and optionally download updates to install when Papers quits.&lt;/li&gt;
+  &lt;li&gt;Requested update restarts wait for active imports, document changes, and transfers to finish.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Your connection settings and local document cache remain in place when Papers updates.&lt;/p&gt;
+</description>
+            <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.2.0/Papers-0.2.0-arm64.dmg" length="14460752" type="application/octet-stream" sparkle:edSignature="/pyi0R7VZLe3t3J+M+Fj3evm8ms4wS7yYnHDUsvD5bpipAgjK1gKCsMQ2NAymulrKPrutAUIenwO4bGz+FFMCw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: KjAgyp6hQv2daGRPwBLYGPOJ7BLy+kYhHmIZg0mmuv8MNegc4MoYBbw25A6wu3QcsFZteoGmphDfEiB+q+T1Ag==
+length: 1797
+-->
