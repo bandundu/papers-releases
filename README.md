@@ -11,5 +11,3 @@ A minimal native Mac client for Paperless-ngx.
 - Get updates in the app, with optional automatic downloads that install when you quit.
 
 Requires an existing Paperless-ngx server and account.
-
-Using 0.1.1 or earlier? [Install the latest version once](https://github.com/bandundu/papers-releases/releases/latest) to enable future in-app updates.
