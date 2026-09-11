@@ -4,6 +4,29 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Papers Updates</title>
         <item>
+            <title>0.3.0</title>
+            <pubDate>Fri, 11 Sep 2026 13:20:37 +0200</pubDate>
+            <link>https://github.com/bandundu/papers-releases</link>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description>&lt;!doctype html&gt;&lt;html&gt;&lt;body&gt;
+&lt;h2&gt;Papers 0.3.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Pinch the trackpad to adjust document size smoothly. Command-scroll and remembered grid size continue to work.&lt;/li&gt;
+&lt;li&gt;Select multiple documents with Command-click, Shift-click, Shift-arrow, or Command-A in the grid. Rotate, export, or delete the selection together.&lt;/li&gt;
+&lt;li&gt;Rotate repeatedly while earlier turns sync: previews respond immediately, requests stay ordered per document, and rejected turns are corrected without losing newer actions. Rotation status and cancellation stay in Transfers.&lt;/li&gt;
+&lt;li&gt;Export and delete selections with individual outcomes and cancellation. Bulk export preserves existing files and handles duplicate names.&lt;/li&gt;
+&lt;li&gt;Native search now remembers recent committed queries for each connection, with a Clear action, readable selection colors in light and dark appearance, and a native mask shared by the rounded material and shadow.&lt;/li&gt;
+&lt;li&gt;Command-A in search selects query text. Destructive confirmation uses the native red Delete button, and Escape cancels.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Requires Apple Silicon and macOS 12 or later. Existing connections and local caches remain in place.&lt;/p&gt;
+&lt;/body&gt;&lt;/html&gt;
+</description>
+            <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.3.0/Papers-0.3.0-arm64.dmg" length="14500247" type="application/octet-stream" sparkle:edSignature="ugVNsOH0Ipw6Ppf/7CDRMNyTm276pc6sn7mzHE7k/3mVDkt9NVcPagbxFWSl24gZkLTRcHLkUi/dTQTe8ScoBQ=="></enclosure>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Fri, 11 Sep 2026 11:31:11 +0200</pubDate>
             <link>https://github.com/bandundu/papers-releases</link>
@@ -37,6 +60,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: GDirSj2JhBwm7C6o1xrpmdLAqZzm15IzYdnCTZsK0jmDdk3B/8F4uhwDbHk3Rcwynp+yjaUWcXlZfIH9/fORBA==
-length: 2943
+edSignature: bw3vG7UxyfRbYd8RUsb0GXtYnUjHfwdyeBo+Z6l4rzEtCYALBszpwtDV8akd6vYwVCJIddPpw6nQJwDqdz6DCw==
+length: 5087
 -->
