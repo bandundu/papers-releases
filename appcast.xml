@@ -4,6 +4,26 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Papers Updates</title>
         <item>
+            <title>0.4.1</title>
+            <pubDate>Sat, 12 Sep 2026 12:46:06 +0200</pubDate>
+            <link>https://github.com/bandundu/papers-releases</link>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description>&lt;h2&gt;Papers 0.4.1&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Document deletion now responds immediately with a smooth, reversible animation while Paperless processes the request.&lt;/li&gt;
+  &lt;li&gt;Successful deletions close the grid gap with the same fluid reflow used for zoom changes. Failed or cancelled deletions return to place without jumping.&lt;/li&gt;
+  &lt;li&gt;Bulk deletions track moving documents by stable identity, keeping interrupted grid motion continuous.&lt;/li&gt;
+  &lt;li&gt;Development, preview, and updater-validation builds can no longer publish or respond to production Spotlight document entries.&lt;/li&gt;
+  &lt;li&gt;Papers Test includes an explicit maintenance command for removing entries created by older preview builds without touching documents or the production index.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Deletion animation respects macOS Reduce Motion. Spotlight indexing remains enabled for the signed production app.&lt;/p&gt;
+</description>
+            <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.4.1/Papers-0.4.1-arm64.dmg" length="14603697" type="application/octet-stream" sparkle:edSignature="ihvs6AJUNrHyeg3r2xipACdQFtgCiTH2d9FijBbd7eCHF5xJ0n89XuoXp+fNbu/u63+uxvqaat7QRDCGl+xLAA=="></enclosure>
+        </item>
+        <item>
             <title>0.4.0</title>
             <pubDate>Fri, 11 Sep 2026 17:01:57 +0200</pubDate>
             <link>https://github.com/bandundu/papers-releases</link>
@@ -100,6 +120,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: JAT+h1zCk5kyUpCDEaxQxEdHhzQWJEuQDKd5uRgKl6jtG9nGX7exLuy41SBynzNEJ6SPu4aPCPZNgyRrujf6Cw==
-length: 8567
+edSignature: aWh1GxWxnZQrZmuB8AIl/8OAEVOK8gmH/BxW6Kevsknz5l2jNc99EhZTJ/4zIIbNyqMdfwWvCyWoXJqfIUyIDg==
+length: 10346
 -->
