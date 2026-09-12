@@ -4,6 +4,22 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Papers Updates</title>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Sat, 12 Sep 2026 15:43:36 +0200</pubDate>
+            <link>https://github.com/bandundu/papers-releases</link>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description>&lt;h2&gt;Smoother search&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Documents now animate smoothly as search filters your library.&lt;/li&gt;
+  &lt;li&gt;Suggestions wait until you pause typing, keeping results calm and readable.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.4.2/Papers-0.4.2-arm64.dmg" length="14613239" type="application/octet-stream" sparkle:edSignature="y0SDK+NjrQ9KpAwRDtD1lxI2WEDYP/YZ4twRasWOJGlGwameeRr45vYfAr1Nl5+eCC+czbnjtxrb1H2hi14QCA=="></enclosure>
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Sat, 12 Sep 2026 12:46:06 +0200</pubDate>
             <link>https://github.com/bandundu/papers-releases</link>
@@ -11,15 +27,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description>&lt;h2&gt;Papers 0.4.1&lt;/h2&gt;
+            <description>&lt;h2&gt;Smoother deletion&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Document deletion now responds immediately with a smooth, reversible animation while Paperless processes the request.&lt;/li&gt;
-  &lt;li&gt;Successful deletions close the grid gap with the same fluid reflow used for zoom changes. Failed or cancelled deletions return to place without jumping.&lt;/li&gt;
-  &lt;li&gt;Bulk deletions track moving documents by stable identity, keeping interrupted grid motion continuous.&lt;/li&gt;
-  &lt;li&gt;Development, preview, and updater-validation builds can no longer publish or respond to production Spotlight document entries.&lt;/li&gt;
-  &lt;li&gt;Papers Test includes an explicit maintenance command for removing entries created by older preview builds without touching documents or the production index.&lt;/li&gt;
+  &lt;li&gt;Documents now respond immediately when deleted and close the grid gap smoothly.&lt;/li&gt;
+  &lt;li&gt;Failed or cancelled deletions return cleanly to their original place.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Deletion animation respects macOS Reduce Motion. Spotlight indexing remains enabled for the signed production app.&lt;/p&gt;
 </description>
             <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.4.1/Papers-0.4.1-arm64.dmg" length="14603697" type="application/octet-stream" sparkle:edSignature="ihvs6AJUNrHyeg3r2xipACdQFtgCiTH2d9FijBbd7eCHF5xJ0n89XuoXp+fNbu/u63+uxvqaat7QRDCGl+xLAA=="></enclosure>
         </item>
@@ -31,16 +43,12 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description>&lt;h2&gt;Papers 0.4.0&lt;/h2&gt;
+            <description>&lt;h2&gt;More context at a glance&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Optional document information below grid thumbnails: titles, localized dates, and independently selectable document type, correspondent, and tag pills. Enable these in Settings → General.&lt;/li&gt;
-  &lt;li&gt;Tag pills match Paperless-ngx colors. Long names truncate and additional tags use a compact +N count. Metadata remains available offline.&lt;/li&gt;
-  &lt;li&gt;Smooth, interruptible animations when showing or hiding document information, with support for macOS Reduce Motion.&lt;/li&gt;
-  &lt;li&gt;Scroll vertically and horizontally with a trackpad after pinching to zoom into a document.&lt;/li&gt;
-  &lt;li&gt;Removed bottom notification and progress overlays. Transfer status and cancellation remain available in Transfers.&lt;/li&gt;
-  &lt;li&gt;Cleaner application menus without unnecessary trailing ellipses.&lt;/li&gt;
+  &lt;li&gt;Optionally show titles, dates, document types, correspondents, and tags beneath documents.&lt;/li&gt;
+  &lt;li&gt;Tag colors match Paperless-ngx and remain available offline.&lt;/li&gt;
+  &lt;li&gt;Enjoy smoother document information, zoomed scrolling, and cleaner menus.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Metadata refreshes on launch, every 10 minutes, and with ⌘R. Empty or unassigned values stay hidden.&lt;/p&gt;
 </description>
             <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.4.0/Papers-0.4.0-arm64.dmg" length="14583211" type="application/octet-stream" sparkle:edSignature="ZYgasWy5Djnico206i3WAUYkQ7EU9DBKanKXwo3YoqDgwa7QVgJa/y4QXHMhf0RoHwOEhAEcb+O/SIsqaPr+Bg=="></enclosure>
         </item>
@@ -52,14 +60,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description>&lt;h2&gt;Papers 0.3.1&lt;/h2&gt;
+            <description>&lt;h2&gt;Zoom and drag&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Pinch to zoom into an open document, up to 4× its fitted size. Zoom out again at fitted size to return to the grid.&lt;/li&gt;
-  &lt;li&gt;Drag documents directly into Mail, Finder, and other apps that accept files, without an attachment picker.&lt;/li&gt;
-  &lt;li&gt;Drag any selected document to copy the entire selection as separate files. A count badge identifies bulk drags, and duplicate filenames are kept distinct.&lt;/li&gt;
-  &lt;li&gt;Improved quick-drag handling, file lifetime, and cancellation. Failed preparation never silently sends only part of a selection.&lt;/li&gt;
+  &lt;li&gt;Pinch to zoom into an open document.&lt;/li&gt;
+  &lt;li&gt;Drag one or several documents directly into Finder, Mail, and other apps.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Files that are not cached download while preparing the drag. If you release before they are ready, Papers asks you to drag the selection again.&lt;/p&gt;
 </description>
             <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.3.1/Papers-0.3.1-arm64.dmg" length="14518312" type="application/octet-stream" sparkle:edSignature="OyZtYto6PVswLiDOEURy1jLWFZss+/ubKBVyyvQk2PAVXSDnxFQvKs+/Bv33WDMCyz3vkKlMJ/087kyur9xiDw=="></enclosure>
         </item>
@@ -71,18 +76,12 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description>&lt;!doctype html&gt;&lt;html&gt;&lt;body&gt;
-&lt;h2&gt;Papers 0.3.0&lt;/h2&gt;
+            <description>&lt;h2&gt;Work with more documents at once&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Pinch the trackpad to adjust document size smoothly. Command-scroll and remembered grid size continue to work.&lt;/li&gt;
-&lt;li&gt;Select multiple documents with Command-click, Shift-click, Shift-arrow, or Command-A in the grid. Rotate, export, or delete the selection together.&lt;/li&gt;
-&lt;li&gt;Rotate repeatedly while earlier turns sync: previews respond immediately, requests stay ordered per document, and rejected turns are corrected without losing newer actions. Rotation status and cancellation stay in Transfers.&lt;/li&gt;
-&lt;li&gt;Export and delete selections with individual outcomes and cancellation. Bulk export preserves existing files and handles duplicate names.&lt;/li&gt;
-&lt;li&gt;Native search now remembers recent committed queries for each connection, with a Clear action, readable selection colors in light and dark appearance, and a native mask shared by the rounded material and shadow.&lt;/li&gt;
-&lt;li&gt;Command-A in search selects query text. Destructive confirmation uses the native red Delete button, and Escape cancels.&lt;/li&gt;
+  &lt;li&gt;Resize the document grid with a trackpad pinch.&lt;/li&gt;
+  &lt;li&gt;Select, rotate, export, or delete multiple documents together.&lt;/li&gt;
+  &lt;li&gt;Quickly return to recent searches.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Requires Apple Silicon and macOS 12 or later. Existing connections and local caches remain in place.&lt;/p&gt;
-&lt;/body&gt;&lt;/html&gt;
 </description>
             <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.3.0/Papers-0.3.0-arm64.dmg" length="14500247" type="application/octet-stream" sparkle:edSignature="ugVNsOH0Ipw6Ppf/7CDRMNyTm276pc6sn7mzHE7k/3mVDkt9NVcPagbxFWSl24gZkLTRcHLkUi/dTQTe8ScoBQ=="></enclosure>
         </item>
@@ -95,8 +94,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description>&lt;h2&gt;More reliable document menus&lt;/h2&gt;
-&lt;p&gt;Fixes a crash when opening a document's context menu on macOS versions before 27, including macOS 26.6.2.&lt;/p&gt;
-&lt;p&gt;The menu retains its native icons and actions. This update also strengthens build checks for compatibility with supported macOS versions.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fixes a crash when opening a document menu on older supported macOS versions.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
             <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.2.1/Papers-0.2.1-arm64.dmg" length="14457077" type="application/octet-stream" sparkle:edSignature="nnWYY/iFdgilCT4hDrPfUh8gzhOBCeINUpO+d7+ADtRGn7E9NWTPNSN5Xi9XX9/b+Rw8pQkC50tKcrN13LbNBg=="></enclosure>
         </item>
@@ -110,16 +110,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <description>&lt;h2&gt;Updates, built into Papers&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Check for new versions from the Papers menu or General Settings using native macOS update dialogs.&lt;/li&gt;
-  &lt;li&gt;Choose daily automatic checks and optionally download updates to install when Papers quits.&lt;/li&gt;
-  &lt;li&gt;Requested update restarts wait for active imports, document changes, and transfers to finish.&lt;/li&gt;
+  &lt;li&gt;Check for updates from Papers or General Settings.&lt;/li&gt;
+  &lt;li&gt;Choose automatic checks and optional downloads that install when Papers quits.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Your connection settings and local document cache remain in place when Papers updates.&lt;/p&gt;
 </description>
             <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.2.0/Papers-0.2.0-arm64.dmg" length="14460752" type="application/octet-stream" sparkle:edSignature="/pyi0R7VZLe3t3J+M+Fj3evm8ms4wS7yYnHDUsvD5bpipAgjK1gKCsMQ2NAymulrKPrutAUIenwO4bGz+FFMCw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: aWh1GxWxnZQrZmuB8AIl/8OAEVOK8gmH/BxW6Kevsknz5l2jNc99EhZTJ/4zIIbNyqMdfwWvCyWoXJqfIUyIDg==
-length: 10346
+edSignature: Vg6x4Kqy4uMTpqbKAnbTxoXeOv8xToME20Sn5rCLYcPewUTqq1NwfMX8nHx9xu8rLOdp8BD8umke+2x5njTEAA==
+length: 7947
 -->

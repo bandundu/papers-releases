@@ -1,9 +1,5 @@
-<h2>Papers 0.4.1</h2>
+<h2>Smoother deletion</h2>
 <ul>
-  <li>Document deletion now responds immediately with a smooth, reversible animation while Paperless processes the request.</li>
-  <li>Successful deletions close the grid gap with the same fluid reflow used for zoom changes. Failed or cancelled deletions return to place without jumping.</li>
-  <li>Bulk deletions track moving documents by stable identity, keeping interrupted grid motion continuous.</li>
-  <li>Development, preview, and updater-validation builds can no longer publish or respond to production Spotlight document entries.</li>
-  <li>Papers Test includes an explicit maintenance command for removing entries created by older preview builds without touching documents or the production index.</li>
+  <li>Documents now respond immediately when deleted and close the grid gap smoothly.</li>
+  <li>Failed or cancelled deletions return cleanly to their original place.</li>
 </ul>
-<p>Deletion animation respects macOS Reduce Motion. Spotlight indexing remains enabled for the signed production app.</p>
