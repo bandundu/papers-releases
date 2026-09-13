@@ -4,6 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Papers Updates</title>
         <item>
+            <title>0.4.4</title>
+            <pubDate>Sun, 13 Sep 2026 19:00:11 +0200</pubDate>
+            <link>https://github.com/bandundu/papers-releases</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description>&lt;ul&gt;
+  &lt;li&gt;New read-only mode lets you browse, search, and export without changing your Paperless library.&lt;/li&gt;
+  &lt;li&gt;Swipe between document pages or use hover arrows, see document dates in Spotlight, and enjoy smoother browsing of large libraries with more reliable sync.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.4.4/Papers-0.4.4-arm64.dmg" length="14760642" type="application/octet-stream" sparkle:edSignature="YSLbAfZLSzQAwhOjLrUUHbqIUwSoFnydidFtKygF1Pwr2GJ7MkQiTU6oFhnLev5CTnHp3TI8XcA2EwTGp2/yBg=="></enclosure>
+        </item>
+        <item>
             <title>0.4.3</title>
             <pubDate>Sat, 12 Sep 2026 22:51:40 +0200</pubDate>
             <link>https://github.com/bandundu/papers-releases</link>
@@ -130,6 +145,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: p2I8G/M6Ma4EcJvekTQBEIbxcNal9sBtnMaMSgfoPVi+3o4Ns4EF8rGynDiZ+mGcmHPtqknAU/Axe2fJ+BJKCg==
-length: 8823
+edSignature: wzlGrfFIPUEp2wC7vLg9crgSxjckaKsI73PDcj3LHoF7nWNfjLUi4gp0X0KD7aTO07Xd7Gc5BdSioLipt5r9Ag==
+length: 9958
 -->
