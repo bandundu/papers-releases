@@ -4,6 +4,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Papers Updates</title>
         <item>
+            <title>0.4.6</title>
+            <pubDate>Mon, 14 Sep 2026 17:47:02 +0200</pubDate>
+            <link>https://github.com/bandundu/papers-releases</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description>&lt;ul&gt;
+  &lt;li&gt;Your library refreshes automatically when you return to Papers.&lt;/li&gt;
+  &lt;li&gt;A new dark app icon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <enclosure url="https://github.com/bandundu/papers-releases/releases/download/v0.4.6/Papers-0.4.6-arm64.dmg" length="17283180" type="application/octet-stream" sparkle:edSignature="06VFtNs2b+z90O1sShija5DYU8peam4McquE1eXdRrFjtuMqjOb84h6XqgvQvQsopelIFE33e1EwBe8MgecsDg=="></enclosure>
+        </item>
+        <item>
             <title>0.4.5</title>
             <pubDate>Sun, 13 Sep 2026 20:19:57 +0200</pubDate>
             <link>https://github.com/bandundu/papers-releases</link>
@@ -160,6 +175,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: rxCvi1/2TEfyG/rcfMClKQWYVPOkfGsCmjGCRvLBdR8Zf014Wu/ORu5a6TIRazFKf+h5e/s5m/MMGUBStSEBCA==
-length: 10977
+edSignature: JeysidonPEDKE6YUAqHEG/8Zndab9bxBFdxdBfSQDaOuTXDsqWdv4ZG3hvZLf1D2FI0t+3IKX+zknc9GlqqWCg==
+length: 11945
 -->
